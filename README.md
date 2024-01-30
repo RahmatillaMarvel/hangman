@@ -24,6 +24,30 @@ Welcome to the Hangman Game project! This Python-based game allows you to play t
 
 ## Usage
 
+### Getting Started
+
+1. Clone or download the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/RahmatillaMarvel/hangman.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd hangman
+    ```
+
+3. Ensure you have Python installed. If not, download and install it from [python.org](https://www.python.org/downloads/).
+
+### Running the Game
+
+Run the game by executing the `hangman.py` script:
+
+```bash
+python hangman.py
+```
+
 Feel free to use, modify, and distribute this Hangman Game project under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contribution
